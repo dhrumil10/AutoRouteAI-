@@ -1,0 +1,18 @@
+{
+    "Main St": {
+      "congestion": "high",
+      "incidents": ["accident near 5th Ave"],
+      "speed_limit": 35
+    },
+    "2nd Ave": {
+      "congestion": "medium",
+      "incidents": [],
+      "speed_limit": 30
+    },
+    "3rd Blvd": {
+      "congestion": "low",
+      "incidents": [],
+      "speed_limit": 40
+    }
+  }
+  
