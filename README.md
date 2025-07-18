@@ -1,4 +1,3 @@
-````markdown
 # AutoRoute AI
 
 **AI-Powered Smart Route Optimizer with Real-Time Detours and Conversational Assistant**
@@ -49,7 +48,7 @@ Key highlights:
    ```bash
    git clone https://github.com/yourusername/AutoRouteAI.git
    cd AutoRouteAI
-````
+
 
 2. Create and activate a Python virtual environment:
 
