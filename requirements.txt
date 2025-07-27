@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+requests
+python-dotenv
+geopy
+openai
+streamlit
+streamlit-folium
+folium
+pytest
+snowflake-connector-python
+pinecone-client
