@@ -28,13 +28,8 @@ jobs:
 
       - name: Run tests
         run: |
-          # Add your test command here, e.g., pytest
           pytest
 
       - name: Build Docker image
         run: |
           docker build -t autoroute-backend:latest .
-
-      # Optional: Push Docker image to Docker Hub or AWS ECR here
-
-      # Optional: Deploy to AWS EC2 or ECS using SSH or AWS CLI
